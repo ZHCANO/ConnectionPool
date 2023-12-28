@@ -1,0 +1,4 @@
+﻿  ConnectionPool.cpp
+D:\zwork\workspace\项目总结\ConnectionPool\ConnectionPool\ConnectionPool.cpp(35,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\zwork\workspace\项目总结\ConnectionPool\ConnectionPool\ConnectionPool.cpp(39,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  ConnectionPool.vcxproj -> D:\zwork\workspace\项目总结\ConnectionPool\x64\Debug\ConnectionPool.exe
